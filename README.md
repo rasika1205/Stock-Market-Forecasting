@@ -6,7 +6,6 @@ This mini project demonstrates time series forecasting of Tesla's stock prices u
 
 🧠 **Goal**: To forecast Tesla (TSLA) stock prices using Prophet and evaluate trends, seasonality, and volatility based on historical closing prices.
 
----
 
 ## 📌 Table of Contents
 
