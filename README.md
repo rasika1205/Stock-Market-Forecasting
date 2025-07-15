@@ -4,7 +4,7 @@
 
 This mini project demonstrates time series forecasting of Tesla's stock prices using the **Facebook Prophet** library. It serves as a practical example of applying predictive analytics and time series modeling on real-world financial data.
 
-> 🧠 **Goal**: To forecast Tesla (TSLA) stock prices using Prophet and evaluate trends, seasonality, and volatility based on historical closing prices.
+🧠 **Goal**: To forecast Tesla (TSLA) stock prices using Prophet and evaluate trends, seasonality, and volatility based on historical closing prices.
 
 ---
 
